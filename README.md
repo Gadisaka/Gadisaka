@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gadisa
-- 👀 I’m interested in full stack development
+- 👀 I’m interested in web dev 
 - 🌱 I’m currently learning software engineering
 - 📫 How to reach me - gadisaka04@gmail.com
 
