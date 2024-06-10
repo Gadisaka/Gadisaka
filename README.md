@@ -1,6 +1,12 @@
 
 # 💫 About Me:
-🔭 I'm currently working on Website Development <br>👯 I'm looking to collaborate on front-end <br>🌱 I'm currently learning software engineering <br>How to reach me: gadisaka04@gmail.com<br>
+<h1>Hi 👋, I'm Gadisa Kasaye
+A passionated React Developer</h1>
+
+
+💬 Ask me about React, Redux, Python and Typescript 
+
+📫 How to reach me gadisaka04@gmail.com
 
 
 ## 🌐 Socials:
