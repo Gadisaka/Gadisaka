@@ -8,7 +8,7 @@ A passionated React Developer</h1>
 
 💬 Ask me about 𝗥𝗲𝗮𝗰𝘁, 𝗝𝗮𝘃𝗮𝘀𝗰𝗿𝗶𝗽𝘁, 𝗰++, 𝗽𝘆𝘁𝗵𝗼𝗻 and 𝗧𝘆𝗽𝗲𝘀𝗰𝗿𝗶𝗽𝘁
 
-📫 How to reach me gadisaka04@gmail.com
+📫 How to reach me - gadisaka04@gmail.com
 
 
 ## 🌐 Socials:
