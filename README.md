@@ -6,7 +6,7 @@ A passionated React Developer</h1>
 
 🏢 Software engineering student at Adama Science and Technology University (𝗔𝗦𝗧𝗨).
 
-💬 Ask me about 𝗥𝗲𝗮𝗰𝘁, 𝗝𝗮𝘃𝗮𝘀𝗰𝗿𝗶𝗽𝘁, 𝗰++, 𝗽𝘆𝘁𝗵𝗼𝗻 and 𝗧𝘆𝗽𝗲𝘀𝗰𝗿𝗶𝗽𝘁
+💬 Ask me about HTML, CSS , 𝗥𝗲𝗮𝗰𝘁, 𝗝𝗮𝘃𝗮𝘀𝗰𝗿𝗶𝗽𝘁, 𝗽𝘆𝘁𝗵𝗼𝗻 and 𝗧𝘆𝗽𝗲𝘀𝗰𝗿𝗶𝗽𝘁
 
 📫 How to reach me - gadisaka04@gmail.com
 
@@ -21,14 +21,7 @@ A passionated React Developer</h1>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gadisaka&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gadisaka&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Gadisaka&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Gadisaka&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Gadisaka&icon=0&color=0)](https://visitcount.itsvg.in)
