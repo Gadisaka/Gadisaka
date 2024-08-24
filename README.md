@@ -1,12 +1,12 @@
 
 # 💫 About Me:
 <h1>Hi 👋, I'm Gadisa Kasaye
-A passionated React Developer</h1>
+A passionated Web Developer</h1>
 
 
 🏢 Software engineering student at Adama Science and Technology University (𝗔𝗦𝗧𝗨).
 
-💬 Ask me about HTML, CSS , 𝗥𝗲𝗮𝗰𝘁, 𝗝𝗮𝘃𝗮𝘀𝗰𝗿𝗶𝗽𝘁, 𝗽𝘆𝘁𝗵𝗼𝗻 and 𝗧𝘆𝗽𝗲𝘀𝗰𝗿𝗶𝗽𝘁
+💬 Ask me about 𝗝𝗮𝘃𝗮𝘀𝗰𝗿𝗶𝗽𝘁, 𝗽𝘆𝘁𝗵𝗼𝗻 and 𝗧𝘆𝗽𝗲𝘀𝗰𝗿𝗶𝗽𝘁
 
 📫 How to reach me - gadisaka04@gmail.com
 
