@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Backend Development and AI**
 
-- 👨‍💻 All of my projects are available at [https://www.gadisa.software/](https://www.gadisa.software/)
+- 👨‍💻 My projects are available at [https://www.gadisa.software/](https://www.gadisa.software/project)
 
 - 💬 Ask me about **Typescript, Javascript, React, NextJs, ExpressJs**
 
