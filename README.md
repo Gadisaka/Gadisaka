@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Gadisa Kasaye</h1>
 <h3 align="center">A passionate web developer from Ethiopia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gadisaka" alt="gadisaka" /></a> </p>
-
 - 🔭 I’m currently working on **Backend Development and AI**
 
-- 👨‍💻 All of my projects are available at [www.gadisa.software](www.gadisa.software)
+- 👨‍💻 All of my projects are available at [https://www.gadisa.software/](https://www.gadisa.software/)
 
 - 💬 Ask me about **Typescript, Javascript, React, NextJs, ExpressJs**
 
 - 📫 How to reach me **gadisaka04@gmail.com**
 
-- 📄 Know about my experiences [www.gadisa.software/resume](www.gadisa.software/resume)
+- 📄 Know about my experiences [https://www.gadisa.software/resume](https://www.gadisa.software/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
