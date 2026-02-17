@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Backend Development and AI**
 
-- 👨‍💻 My projects are available at [https://www.gadisa.software/projects](https://www.gadisa.software/projects)
+- 👨‍💻 My projects are available at [https://gadisakasaye.vercel.app/projects](https://gadisakasaye.vercel.app/projects)
 
 - 💬 Ask me about **Typescript, Javascript, React, NextJs, ExpressJs**
 
 - 📫 How to reach me **gadisaka04@gmail.com**
 
-- 📄 Know about my experiences [https://www.gadisa.software/resume](https://www.gadisa.software/resume)
+- 📄 Know about my experiences [https://gadisakasaye.vercel.app/resume](https://gadisakasaye.vercel.app/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
